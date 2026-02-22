@@ -1,0 +1,15 @@
+# Local secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Experiment outputs and caches
+outputs/
+
+# Virtual envs
+.venv/
+venv/
+
+.DS_Store

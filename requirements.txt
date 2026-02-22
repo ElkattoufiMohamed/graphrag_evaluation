@@ -1,0 +1,12 @@
+datasets
+pandas
+numpy
+scikit-learn
+rouge-score
+sentence-transformers
+nano-graphrag
+dashscope
+google-genai
+openai
+tiktoken
+requests
